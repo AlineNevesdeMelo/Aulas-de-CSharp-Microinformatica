@@ -1,0 +1,10 @@
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\bin\Debug\ProgramaMediaAlunos.exe.config
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\bin\Debug\ProgramaMediaAlunos.exe
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\bin\Debug\ProgramaMediaAlunos.pdb
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.Form1.resources
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.Properties.Resources.resources
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.exe
+C:\Users\Notebook\Desktop\Fatec\Microinformática\ProgramaMediaAlunos\ProgramaMediaAlunos\obj\Debug\ProgramaMediaAlunos.pdb
